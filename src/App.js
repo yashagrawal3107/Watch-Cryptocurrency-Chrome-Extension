@@ -10,7 +10,7 @@ function App() {
 	fetch(`https://alpha-vantage.p.rapidapi.com/query?from_currency=${cryptoName}&function=CURRENCY_EXCHANGE_RATE&to_currency=${currency}`, {
 			"method": "GET",
 			"headers": {
-			"x-rapidapi-key": "c682e9c5eamshd8deb2acf3475edp1107b0jsnc660c96ec97e",
+			"x-rapidapi-key": "insert your key here",
 			"x-rapidapi-host": "alpha-vantage.p.rapidapi.com"
 	}
 	})
