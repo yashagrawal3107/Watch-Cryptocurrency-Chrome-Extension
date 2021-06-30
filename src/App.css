@@ -50,3 +50,10 @@ h3 {
 h3 {
 	font-size: 24px;
 }
+
+input{
+	color: #26b67c;
+	border: 2px solid #26b67c;
+	border-radius: 4px;
+	margin: 5px
+}
