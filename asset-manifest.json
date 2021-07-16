@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Watch-Cryptocurrency-Chrome-Extension/static/css/main.e74c47a1.chunk.css",
+    "main.js": "/Watch-Cryptocurrency-Chrome-Extension/static/js/main.7160654a.chunk.js",
+    "main.js.map": "/Watch-Cryptocurrency-Chrome-Extension/static/js/main.7160654a.chunk.js.map",
+    "runtime-main.js": "/Watch-Cryptocurrency-Chrome-Extension/static/js/runtime-main.cf03f418.js",
+    "runtime-main.js.map": "/Watch-Cryptocurrency-Chrome-Extension/static/js/runtime-main.cf03f418.js.map",
+    "static/js/2.a1e9a988.chunk.js": "/Watch-Cryptocurrency-Chrome-Extension/static/js/2.a1e9a988.chunk.js",
+    "static/js/2.a1e9a988.chunk.js.map": "/Watch-Cryptocurrency-Chrome-Extension/static/js/2.a1e9a988.chunk.js.map",
+    "static/js/3.ba769c83.chunk.js": "/Watch-Cryptocurrency-Chrome-Extension/static/js/3.ba769c83.chunk.js",
+    "static/js/3.ba769c83.chunk.js.map": "/Watch-Cryptocurrency-Chrome-Extension/static/js/3.ba769c83.chunk.js.map",
+    "index.html": "/Watch-Cryptocurrency-Chrome-Extension/index.html",
+    "static/css/main.e74c47a1.chunk.css.map": "/Watch-Cryptocurrency-Chrome-Extension/static/css/main.e74c47a1.chunk.css.map",
+    "static/js/2.a1e9a988.chunk.js.LICENSE.txt": "/Watch-Cryptocurrency-Chrome-Extension/static/js/2.a1e9a988.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf03f418.js",
+    "static/js/2.a1e9a988.chunk.js",
+    "static/css/main.e74c47a1.chunk.css",
+    "static/js/main.7160654a.chunk.js"
+  ]
+}
