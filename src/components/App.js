@@ -48,6 +48,7 @@ function App() {
           />
         </form>
       </div>
+
       {filteredCoins.map((coin) => {
         return (
           <Coin
