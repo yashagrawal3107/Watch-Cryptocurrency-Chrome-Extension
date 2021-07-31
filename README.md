@@ -1,5 +1,5 @@
 ### `It will be available on chrome web store very soon!!!`
-
+[Link to the Website](https://yashagrawal3107.github.io/Watch-Cryptocurrency-Chrome-Extension/)
 ## Web Extension
 
 ![home_screenshot][web_extesnion_screenshot_image]
